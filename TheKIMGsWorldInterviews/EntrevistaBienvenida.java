@@ -1,5 +1,5 @@
-// Creé este archivo el dia domingo 05/07/2026. 
-// Esta es una pequeña entrevista que hice hace algun tiempo con Scanner
+// Hice este archivo el dia domingo 05/07/2026. 
+// Esta es una pequeña entrevista que creé el originalmente jueves 11/06/2026 con Scanner.
 
 import java.util.Scanner;
 
